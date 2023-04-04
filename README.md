@@ -15,4 +15,4 @@ Para criação do jogo primeiro devemos ter alguns passos em mente.
 
 5: Quando o jogador chegar do outro lado do mapa, o jogador deverá passar para o próximo nível e reiniciar do ponto inicial.
 
-Tem esses passos em mente, podemos dividir o jogo entre jogador, gerenciador de carros e placar.
+Tendo esses passos em mente, podemos dividir o jogo entre jogador, gerenciador de carros e placar.
